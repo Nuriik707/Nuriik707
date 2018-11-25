@@ -71,13 +71,3 @@ color: white;
 #home:visited{
 	color:red;
 }
-#git{
-	font-size: 18px
-		color: black;
-margin: 0 200px;
-	transition: 1s;
-}
-#git:hover{
-	color:red;
-}
-#git
