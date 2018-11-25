@@ -20,8 +20,8 @@ a{
 
 }
 #movies{
-margin: auto 0;
-	
+margin: auto 200px;
+	color: blue;
 }
 img{
 	margin: 0 0 0 auto;
