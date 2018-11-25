@@ -1,0 +1,57 @@
+body{
+	background-color: black;
+	color:white;
+	width: 550px;
+	padding: 2px;
+	height: 2070px;
+	border:2px solid gray;
+	margin: 0 220px;
+}
+p{
+	font-size: 15px;
+}
+a{
+	color: white;
+	transition: 1s;
+}
+#home{
+	color: yellow;
+	margin: auto 200px;
+
+}
+#movies{
+margin: auto 200px;
+	
+}
+img{
+	margin: 0 0 0 auto;
+}
+#home:hover{
+	color: red;
+
+}
+#movies:visited{
+	color: blue;
+}
+#zoo{
+	font-size: 15px;
+}
+h3{
+	margin: auto auto;
+	font-size: 40px;
+}
+h2{
+	margin: auto auto;
+	font-size: 40px;
+}
+h1{
+	margin: auto auto;
+	font-size: 40px;
+}
+h4{
+	margin: auto auto;
+	font-size: 40px;
+}
+#pad{
+	font-size: 15px;
+}
